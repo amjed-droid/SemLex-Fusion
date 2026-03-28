@@ -1,0 +1,8 @@
+```text
+streamlit
+pandas
+numpy
+sentence-transformers
+rank-bm25
+scikit-learn
+urllib3
